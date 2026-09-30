@@ -1,1 +1,1 @@
-# tallerpractico-gcs
+# gestion-configuracion-software
